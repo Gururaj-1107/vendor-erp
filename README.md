@@ -8,7 +8,7 @@
 <p align="center">
   
   <img src="https://img.shields.io/badge/HACKATHON_2026-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon 2026"/>
-  <img src="https://img.shields.io/badge/LIVE_DEMO-CLOUD_RUN-22C55E?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/SUPABASE-22C55E?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo"/>
   <img src="https://img.shields.io/badge/LICENSE-MIT-EAB308?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/NODE.JS-18%2B-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
