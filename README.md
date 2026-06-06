@@ -6,7 +6,7 @@
 <p align="center"><strong>AI-Powered B2B Vendor Management & Procurement ERP Platform</strong></p>
 
 <p align="center">
-  <a href="https://buildforai.withgoogle.com/"><img src="https://img.shields.io/badge/Google_Build_For_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Build for AI"/></a>
+  
   <img src="https://img.shields.io/badge/HACKATHON_2026-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon 2026"/>
   <img src="https://img.shields.io/badge/LIVE_DEMO-CLOUD_RUN-22C55E?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo"/>
   <img src="https://img.shields.io/badge/LICENSE-MIT-EAB308?style=for-the-badge" alt="License"/>
